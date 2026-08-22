@@ -24,7 +24,6 @@ I'm **20plays** — a developer who likes shipping small, delightful tools. My w
 | --- | --- | --- |
 | 🐶 **[Fat Dog Takeover](https://github.com/20plays/fatdogtakeover)** | A cross-browser extension that replaces every image on every website with the Fat Dog. | [Chrome](https://chromewebstore.google.com/detail/fat-dog-takeover/pmhnekfkfemphhdkekgpjdgikkmbofic) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/fat-dog-takeover/) |
 | 📺 **[LiveTube](https://github.com/20plays/LiveTube)** | An Android app to play YouTube in the background or with the screen off — perfect for podcasts. | [Releases](https://github.com/20plays/LiveTube/releases) |
-| 🔥 **[Flare](https://github.com/20plays/Flare)** | A lightning-fast, self-hostable file-sharing platform for ShareX, Flameshot, and more. | [Repo](https://github.com/20plays/Flare) |
 | 🥔 **[Potato](https://github.com/20plays/Potato)** | Fork it and you can say you forked a potato. A time-honored tradition. | [Repo](https://github.com/20plays/Potato) |
 
 ## 🧰 Tech I use
