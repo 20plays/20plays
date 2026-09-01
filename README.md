@@ -1,51 +1,19 @@
-<div align="center">
-  <h1>20plays</h1>
-  <p><i>Building fun, useful, and a little weird software.</i></p>
-  <p>
-    <a href="https://20plays.com"><img src="https://img.shields.io/badge/Website-20plays.com-2ea44f?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
-    <img src="https://img.shields.io/badge/Followers-4-1f6feb?style=flat&logo=github&logoColor=white" alt="Followers">
-    <img src="https://img.shields.io/badge/On%20GitHub%20since-2020-1f6feb?style=flat&logo=github&logoColor=white" alt="Since 2020">
-  </p>
-</div>
+# hey, i'm 20plays
 
----
+I like computers a little too much.
 
-## 👋 About me
+Most of my projects start with “I wonder if this would work” and end with me several layers deeper than I planned. I spend most of my time around Linux, networking, self-hosting, and software that solves a problem I personally have.
 
-I'm **20plays** — a developer who likes shipping small, delightful tools. My work spans browser extensions, Android apps, and self-hosted web services. Most of it is open source and built for fun.
+Right now I'm working on **Telium**, a federated chat platform where people can own their account and communities can run their own server. I'm also spending an unreasonable amount of time figuring out how far Retrac's Fortnite stack can get under Wine without bypassing the anti-cheat.
 
-- 🌐 Check out my site: [20plays.com](https://20plays.com)
-- 🛠 I build things that are practical *and* a bit silly
-- 📫 The best way to reach me is through my projects' issues or my website
+A few things I've made or maintain:
 
-## 🚀 Featured projects
+- **[retrac-linux-tools](https://github.com/20plays/retrac-linux-tools)** — research, Wine patches, and reproducible tooling for getting Retrac working on Linux.
+- **[LiveTube](https://github.com/20plays/LiveTube)** — an Android app for playing YouTube in the background or with the screen off.
+- **[Fat Dog Takeover](https://github.com/20plays/fatdogtakeover)** — replaces every image on the internet with Fat Dog. This does exactly what it needs to do.
+- **[rewards-farmer](https://github.com/20plays/rewards-farmer)** — a fork I've been maintaining with reliability fixes and more ways to generate search queries.
+- **[Potato](https://github.com/20plays/Potato)** — fork it and you can truthfully say you forked a potato.
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| 🐶 **[Fat Dog Takeover](https://github.com/20plays/fatdogtakeover)** | A cross-browser extension that replaces every image on every website with the Fat Dog. | [Chrome](https://chromewebstore.google.com/detail/fat-dog-takeover/pmhnekfkfemphhdkekgpjdgikkmbofic) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/fat-dog-takeover/) |
-| 📺 **[LiveTube](https://github.com/20plays/LiveTube)** | An Android app to play YouTube in the background or with the screen off — perfect for podcasts. | [Releases](https://github.com/20plays/LiveTube/releases) |
-| 🥔 **[Potato](https://github.com/20plays/Potato)** | Fork it and you can say you forked a potato. A time-honored tradition. | [Repo](https://github.com/20plays/Potato) |
+I also mess with homelab stuff, weird networking problems, old hardware, and making Linux run software that would rather I didn't.
 
-## 🧰 Tech I use
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=20plays&show_icons=true&theme=tokyonight&hide_rank=false" alt="20plays's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20plays&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-<div align="center">
-  <i>Thanks for stopping by! ⭐ a repo if you find it fun.</i>
-</div>
+More stuff lives at **[20plays.com](https://20plays.com)**.
