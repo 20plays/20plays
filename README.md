@@ -17,3 +17,4 @@ A few things I've made or maintain:
 I also mess with homelab stuff, weird networking problems, old hardware, and making Linux run software that would rather I didn't.
 
 More stuff lives at **[20plays.com](https://20plays.com)**.
+And more at **[My GitHub Gists](https://gist.github.com/20plays)**.
