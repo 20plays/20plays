@@ -11,8 +11,6 @@ A few things I've made or maintain:
 - **[retrac-linux-tools](https://github.com/20plays/retrac-linux-tools)** — research, Wine patches, and reproducible tooling for getting Retrac working on Linux.
 - **[LiveTube](https://github.com/20plays/LiveTube)** — an Android app for playing YouTube in the background or with the screen off.
 - **[Fat Dog Takeover](https://github.com/20plays/fatdogtakeover)** — replaces every image on the internet with Fat Dog. This does exactly what it needs to do.
-- **[rewards-farmer](https://github.com/20plays/rewards-farmer)** — a fork I've been maintaining with reliability fixes and more ways to generate search queries.
-- **[Potato](https://github.com/20plays/Potato)** — fork it and you can truthfully say you forked a potato.
 
 I also mess with homelab stuff, weird networking problems, old hardware, and making Linux run software that would rather I didn't.
 
