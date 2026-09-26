@@ -5,6 +5,7 @@ I like computers a little too much.
 Most of my projects start with “I wonder if this would work” and end with me several layers deeper than I planned. I spend most of my time around Linux, networking, self-hosting, and software that solves a problem I personally have.
 
 Right now I'm working on **Telium**, a federated chat platform where people can own their account and communities can run their own server.
+When I'm not working on that, I'm trying to develop a playable experience with Oculus Rift S on Linux by patching monado.
 
 A few things I've made or maintain:
 - **[retrac-linux-tools](https://github.com/20plays/retrac-linux-tools)** — research, Wine patches, and reproducible tooling for getting Retrac working on Linux.
