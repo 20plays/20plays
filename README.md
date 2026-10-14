@@ -11,7 +11,7 @@ A few things I've made or maintain:
 - **[Fat Dog Takeover](https://github.com/20plays/fatdogtakeover)** — replaces every image on the internet with Fat Dog. This does exactly what it needs to do.
 
 Noteworthy contributions:
-- **[Vice Clipping Software](https://github.com/eklonofficial/Vice/pulls?q=is%3Apr+author%3A20plays)** — Fix an install script bug that prevented many from installing the software.
+- **[Vice Clipping Software](https://github.com/eklonofficial/Vice/pulls?q=is%3Apr+author%3A20plays)** — Add a system tray icon, and fix an install script bug that prevented many from installing the software.
 
 I also mess with homelab stuff, weird networking problems, old hardware, and making Linux run software that would rather I didn't.
 
