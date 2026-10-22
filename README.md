@@ -3,7 +3,6 @@
 I spend most of my time around Linux, networking, self-hosting, and software that solves a problem I personally have.
 
 Right now I'm working on **Telium**, a federated chat platform where people can own their account and communities can run their own server.
-When I'm not working on that, I'm trying to develop a playable experience with Oculus Rift S on Linux by patching monado.
 
 A few things I've made or maintain:
 - **[CoreSplit](https://github.com/20plays/coresplit)** — Play videogames without your agents (or other heavy processes) making you lag.
@@ -12,8 +11,6 @@ A few things I've made or maintain:
 
 Noteworthy contributions:
 - **[Vice Clipping Software](https://github.com/eklonofficial/Vice/pulls?q=is%3Apr+author%3A20plays)** — Add a system tray icon, and fix an install script bug that prevented many from installing the software.
-
-I also mess with homelab stuff, weird networking problems, old hardware, and making Linux run software that would rather I didn't.
 
 More stuff lives at **[20plays.com](https://20plays.com)**.
 And more at **[My GitHub Gists](https://gist.github.com/20plays)**.
