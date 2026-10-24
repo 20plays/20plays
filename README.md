@@ -5,7 +5,7 @@ I spend most of my time around Linux, networking, self-hosting, and software tha
 Right now I'm working on **Telium**, a federated chat platform where people can own their account and communities can run their own server.
 
 A few things I've made or maintain:
-- **[CoreSplit](https://github.com/20plays/coresplit)** — Play videogames without your agents (or other heavy processes) making you lag.
+- **[CoreSplit](https://github.com/20plays/coresplit)** — Play videogames without other processes making you lag.
 - **[LiveTube](https://github.com/20plays/LiveTube)** — an Android app for playing YouTube in the background or with the screen off.
 - **[Fat Dog Takeover](https://github.com/20plays/fatdogtakeover)** — replaces every image on the internet with Fat Dog. This does exactly what it needs to do.
 
